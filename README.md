@@ -1,4 +1,4 @@
 # Netflix Clone
 
-This netflix clone(sleep-time_ has been created using react.
+This netflix clone(sleep-time) has been created using react.
 
